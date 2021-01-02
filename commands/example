@@ -1,0 +1,9 @@
+const { DiscordAPIError, Discord } = require("discord.js");
+
+module.exports = {
+    name: '',
+    aliases: [''],
+    execute(message, args, client, Discord) {
+    
+    }
+}
