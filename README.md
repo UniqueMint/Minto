@@ -7,6 +7,8 @@ This bot serves a wide range of things such as:
 - Music
 and others!
 
+For discussion or other things : https://discord.io/zintdamint
+
 add the bot through the link here : https://discord.com/oauth2/authorize?client_id=724463666510037103&scope=bot&permissions=104328318
 # Updating
 1. For adding new commands, ask me first through my discord
